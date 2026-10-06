@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oI3j6kH1zAI=",
+  "dgSpecHash": "MXpbK8VjR8Y=",
   "success": true,
   "projectFilePath": "/home/ibrahim/Belgeler/VsCode/23th Course Examples/Insertion Sort/InsertionSort/InsertionSort.csproj",
   "expectedPackageFiles": [
-    "/home/ibrahim/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+    "/home/ibrahim/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }
